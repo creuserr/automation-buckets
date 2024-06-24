@@ -16,8 +16,8 @@ Every bucket has the same format of:
 date
 
 Example:
-[12] d0ae1cb0-153a-497a-91da-5cd7b87af482
-Mon Jun 24 2024 23:45:41 GMT+0800 (Philippine Standard Time)
+[1] 9666da14-af30-4fc0-a2e2-0950b7e61cd4
+Mon Jun 24 2024 16:39:19 GMT+0000 (Coordinated Universal Time)
 ```
 
 ### Bucket :bucket:
