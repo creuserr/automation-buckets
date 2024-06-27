@@ -26,4 +26,4 @@ There are 7 buckets named `bucket-1...7.txt`. Since this workflow will run every
 
 ### How to create your own automation :rocket:
 
-A blog will be written in this repository soon...
+Read the document [HOWTO.md](HOWTO.md) for a step-by-step guide on implementing your own automation.
