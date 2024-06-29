@@ -32,7 +32,7 @@ It is required to allow the webhook to modify the repository.
 1. Go to [cron-job.org](https://cron-job.org).
 2. Schedule a new job and use your webhook. <br><br>
    ```http
-   GET https://your-domain.vercel.app/api/start
+   GET https://your-deployment.vercel.app/api/start
    ```
 
 You can configure when to execute it, but it is **very recommended** to schedule it for once a day.
