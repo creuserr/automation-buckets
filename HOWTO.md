@@ -3,7 +3,7 @@ To deploy your own automation, follow these steps:
 ### Webhook
 
 1. Create a new repository
-2. Create two files with this structure: <br><br>
+2. Create nine files with this structure: <br><br>
    ```
     automation/
     ├── buckets/
