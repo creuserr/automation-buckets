@@ -7,12 +7,12 @@ To deploy your own automation, follow these steps:
    ```
     automation/
     ├── buckets/
-    │   └── bucket-1.txt
-    │   └── bucket-2.txt
-    │   └── bucket-3.txt
-    │   └── bucket-4.txt
-    │   └── bucket-5.txt
-    │   └── bucket-6.txt
+    │   ├── bucket-1.txt
+    │   ├── bucket-2.txt
+    │   ├── bucket-3.txt
+    │   ├── bucket-4.txt
+    │   ├── bucket-5.txt
+    │   ├── bucket-6.txt
     │   └── bucket-7.txt
     ├── api/
     │   └── index.js
